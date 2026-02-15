@@ -252,7 +252,7 @@ export default function NaatiTeacherHome() {
                         <div className="space-y-8 lg:pl-6">
                             <div>
                                 <div className="text-xs sm:text-sm font-semibold uppercase tracking-[0.25em] text-amber-500 mb-2">
-                                    11+ years experience in Hindi NAATI
+                                    9+ years experience in Hindi NAATI
                                 </div>
                                 <div className="text-xs sm:text-sm font-semibold uppercase tracking-[0.25em] text-amber-500 mb-2">
                                     5.5 years experience in Telugu NAATI
@@ -261,7 +261,7 @@ export default function NaatiTeacherHome() {
                                     NAATI‑accredited Hindi &amp; Telugu specialist
                                 </h3>
                                 <p className="mt-4 text-sm sm:text-base md:text-lg text-slate-600 leading-relaxed">
-                                    Teaching NAATI CCL since 2014 with a strong focus on real exam
+                                    Teaching NAATI CCL since 2018 with a strong focus on real exam
                                     dialogues, Australian context, and confident speaking. Every
                                     session is tailored to your current level and migration goals.
                                 </p>
@@ -349,10 +349,15 @@ export default function NaatiTeacherHome() {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8">
                         {[
                             {
-                                name: "Marri Charan",
+                                name: "Manoj",
                                 lang: "Telugu",
-                                date: "Exam date: 28/10/25",
-                                quote: "I am incredibly grateful that I joined Aone's NAATI classes and had the opportunity to learn from Swarna madam. From the very beginning, Swarna madam was extremely supportive, guiding me at every step. Her teaching methods are exceptional, which greatly improved my vocabulary and speaking skills. I made sure to attend all of her classes, and the consistent practice, along with her extra mock tests and dedicated revision sessions, helped me build my confidence. Before joining, I was very nervous about the NAATI exam, unsure of how to prepare etc. However, Swarna madam's structured approach, patience, and personalized feedback ensured that I was fully prepared. I highly recommend Swarna madam to anyone looking to excel in NAATI Telugu—her expertise, dedication, and passion for teaching make her the perfect choice.",
+                                date: "Exam date: 09/12/25",
+                                quote: "I’m glad I joined NAATI classes at swarna ma'am! She offered me the best services.\n" +
+                                    "Swarna Madam was absolutely amazing—she supported me at every step of the learning process. she helped me improve my vocabulary and speaking skills. She went above and beyond by offering extra classes and mock tests to ensure I was fully prepared.\n" +
+                                    "\n" +
+                                    "Initially, I was really anxious about the exam but with Swarna Madam’s guidance, I was able to gain confidence and perform well.\n" +
+                                    "\n" +
+                                    "I highly recommend Swarna Madam to anyone preparing for NAATI in Telugu or Hindi. Her dedication, expertise, and teaching style make her an outstanding choice for anyone looking to achieve success.",
                                 rating: 5,
                             },
                             {
